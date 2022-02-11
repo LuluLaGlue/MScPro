@@ -7,7 +7,7 @@ Each project has its own folder:
     * #### **Semester 1**:
       - _***T-POO-700***_: Phoenix pool with a final objective to create a VueJS web app and a Phoenix API.
       - _***T-WEB-700***_: ReactJS web platform following cryptocurrencies based on several RSS fluxes connected to a NodeJS API.
-      - _***T-NSA-700***_: Setup several virtual machines in order to created a shared hosting plateform to automate the deployment of several applications.
+      - _***T-NSA-700***_: Setup several virtual machines in order to create a shared hosting plateform to automate the deployment of several applications.
     * #### **Semester 2**:
       - _***T-DEV-810***_: Build an AI capable of detecting pneumonia based on X-Ray scans.
       - _***T-WEB-800***_: Create a trip planner which gathers intel based on external APIs and suggests events and services.
